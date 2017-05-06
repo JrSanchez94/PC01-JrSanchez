@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PC01-JrSanchez
+  host: PC01-JrSanchez
+  disk_quota: 1024M
