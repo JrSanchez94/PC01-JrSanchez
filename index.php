@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="style.css" />
 </head>
 <body>
+	<img src="images/imgone.JPG"/>
 	<?php
 	$servername = "us-cdbr-iron-east-03.cleardb.net";
 	$username = "b74ba3320e82ec";
@@ -31,6 +32,6 @@
 	<?php }  
 	$conn->close();
 	?> 
-	<img src="images/footer.JPG"/>
+	<img src="images/imgtwo.JPG"/>
 </body>
 </html>
